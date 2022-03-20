@@ -3,6 +3,4 @@
 
 **Live Demo:** [https://cj-mills.github.io/Pixel-Rain-HTML-Canvas-JavaScript/](https://cj-mills.github.io/Pixel-Rain-HTML-Canvas-JavaScript/)
 
-
-
 ![pixel-rain-2](./images/pixel-rain-2.gif)
